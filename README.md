@@ -17,4 +17,4 @@
 各项指标如图，map仅0.6，而且出现了过拟合，能够识别大部分火焰场景，但是置信度偏低
 
 
-![监控曲线](asset/model1/results.png=600x)
+<img src="asset/model1/results.png" width="600" alt="监控曲线">
