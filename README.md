@@ -39,6 +39,8 @@
 
 ✨模型2：数据集容量达到了16000，训练，验证，测试比例为821，置信度有所提高
 
+可以从监控曲线看出如果epoch达到120轮或许效果会更佳
+
 各项指标如图
 
 
@@ -47,3 +49,7 @@
     <img src="asset/model2/confusion_matrix.png" height="300">
     <img src="asset/model2/labels.jpg" height="300">
 </div>
+
+## 🖼️效果展示
+<img src="asset/model2/val_batch1_pred.jpg" width="400" height="400" alt="监控">
+<img src="asset/model2/val_batch2_pred.jpg" width="400" height="400" alt="监控">
