@@ -18,5 +18,5 @@
 
 
 <img src="asset/model1/results.png" width="800" alt="监控曲线">
-<img src="asset/model1/confusion_matrix_normalized.png" width="400" alt="归一化混淆"><img src="asset/model1/labels.png" width="400" alt="label">
-
+<img src="asset/model1/confusion_matrix_normalized.png" width="400" alt="归一化混淆">
+<img src="asset/model1/labels.png" width="400" alt="label">
