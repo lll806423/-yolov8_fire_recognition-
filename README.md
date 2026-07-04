@@ -1,4 +1,4 @@
-# 🔥🔥🔥-基于yolov8实现的火焰/烟雾识别（支持图片和视频检测）-
+<img width="381" height="270" alt="92_model2" src="https://github.com/user-attachments/assets/8f40f674-4e8f-478a-813e-07b96f3d50ed" /># 🔥🔥🔥-基于yolov8实现的火焰/烟雾识别（支持图片和视频检测）-
 ***
 ## ①Introduction
 🎯配置环境
@@ -7,6 +7,8 @@
 可以先在pycharm里配置好环境pytorch（b站有教程），之后可以先让ai生成一份训练代码，或者直接下载我训练代码里的直接用
 
 模型我都放在release里了，3个模型，表现最好的是模型2，模型3加入的psa注意力纯当练手，表现一般
+
+模型1是火焰/烟雾都能识别，模型2当时找训练集忘记看了，只能识别火焰
 
 主要用到的代码是train里的yolo_train，pic_test和load_vidodata是用来输入图片或视频进行模型测试的
 ***
@@ -32,4 +34,6 @@
 
 <img src="asset/model1/63_model2.jpg" width="400" height="400" alt="监控">
 <img src="asset/model1/91_model2.jpg" width="400" height="400" alt="监控">
+<img src="asset/model1/92_model2.jpg" width="400" height="400" alt="监控">
 
+***
