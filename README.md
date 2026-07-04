@@ -7,6 +7,8 @@
 可以先在pycharm里配置好环境pytorch（b站有教程），之后可以先让ai生成一份训练代码，或者直接下载我训练代码里的直接用
 
 模型我都放在release里了，3个模型，表现最好的是模型2，模型3加入的psa注意力纯当练手，表现一般
+
+主要用到的代码是train里的yolo_train，pic_test和load_vidodata是用来输入图片或视频进行模型测试的
 ***
 
 ## ②🔥模型介绍
@@ -23,3 +25,5 @@
     <img src="asset/model1/confusion_matrix_normalized.png" height="400">
     <img src="asset/model1/labels.jpg" height="400">
 </div>
+***
+效果展示
