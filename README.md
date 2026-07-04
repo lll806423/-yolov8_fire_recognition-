@@ -9,7 +9,9 @@
 
 模型1是火焰/烟雾都能识别，模型2当时找数据集忘记看了，只能识别火焰
 
-主要用到的代码是train里的yolo_train，pic_test和load_vidodata是用来输入图片或视频进行模型测试，attention开头的文件一个是psa配置另一个是说明书
+主要用到的代码是train里的yolo_train，pic_test和load_vidodata是用来输入图片或视频进行模型测试，material里提供部分图片和视频，可以在pic和video里直接调用
+
+attention开头的文件一个是psa配置另一个是说明书，也要用到pycache里的文件
 
 ***
 
