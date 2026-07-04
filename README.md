@@ -1,4 +1,4 @@
-<img width="381" height="270" alt="92_model2" src="https://github.com/user-attachments/assets/8f40f674-4e8f-478a-813e-07b96f3d50ed" /># 🔥🔥🔥-基于yolov8实现的火焰/烟雾识别（支持图片和视频检测）-
+# 🔥🔥🔥-基于yolov8实现的火焰/烟雾识别（支持图片和视频检测）-
 ***
 ## ①Introduction
 🎯配置环境
