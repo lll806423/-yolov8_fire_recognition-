@@ -69,3 +69,4 @@ attention开头的文件一个是psa配置另一个是说明书，也要用到py
 如果不知道数据集标注或在哪找的话可以搜label studio，kaggle，roboflow，hugging face
 
 ## ✨✨✨如果帮助到了你，请给我一颗星⑧
+
